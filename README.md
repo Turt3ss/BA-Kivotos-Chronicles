@@ -1,6 +1,6 @@
 # BA-Kivotos-Chronicles
 Screenshots
-Advantages
+Features
 Updates
 Instructions
 Support
